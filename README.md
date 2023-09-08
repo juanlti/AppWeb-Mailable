@@ -10,7 +10,7 @@
 ## About Laravel
 
 Si presentan el siguiente error: Connection could not be established with host "smtp.gmail.com:456...
-Es porque el servidor de SMPT (encargado de enviar los emails), de gmails, utiliza el puerto 587, y el puerto 465 es para el certificado.
+Es porque el servidor de SMPT (encargado de enviar los emails), utiliza el puerto 587, y el puerto 465 es para el certificado.
 Solucion: cambiar de puerto, reemplazar el 587 por 465 en la variable MAIL_PORT. 
 
 
