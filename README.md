@@ -14,4 +14,4 @@ Es porque el servidor de SMPT (encargado de enviar los emails), de gmails, utili
 Solucion: cambiar de puerto, reemplazar el 587 por 465 en la variable MAIL_PORT. 
 
 
-![solucionGmailsEnvios](https://github.com/juanlti/AppWeb-Mailable/assets/47389717/fb2cc405-359b-4817-8fae-a837cd0efb66)
+![solucionGmailsEnvios](https://github.com/juanlti/AppWeb-Mailable/assets/47389717/a32a93fd-a7a2-45ee-9742-8b2fcd72c3e1)
